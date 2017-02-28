@@ -1,0 +1,15 @@
+{
+  "name": "aolabs-salt",
+  "version": "0.0.1",
+  "author": "aolabs",
+  "summary": "Configure Saltstack master/minion(s) optionally using Puppet certificate files.",
+  "license": "MIT",
+  "source": "https://github.com/aolabs/puppet-salt.git",
+  "project_page": "https://github.com/aolabs/puppet-salt",
+  "issues_url": "https://github.com/aolabs/puppet-salt/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
